@@ -1,4 +1,4 @@
-![MasterHead](https://importanceoftechnology.net/wp-content/uploads/2020/05/107419750-web-development-coding-programming-internet-technology-business-concept-.jpg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*OiZhGS5AQXm2P-0WaYwPig.png)
 <h1 align="center">Hi 👋, I'm Sadhan Das</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src ="https://images.playground.com/4721561220eb4ad1b0bdce8ed478d5f6.jpeg">

@@ -46,7 +46,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codersadhan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersadhan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 

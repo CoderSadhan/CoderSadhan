@@ -14,7 +14,7 @@
 - 🌱 Currently exploring **TypeScript** & **Next.js**
 - 🤝 Open to collaborating on **Open Source Projects**
 - 💬 Ask me about **Web Development, JavaScript, and React**
-- 📧 Reach me at: **it.20213038@gmail.com**
+- 📧 Reach me at: **sadhandas.dev@gmail.com**
 - ⚡ Fun fact: *If you like my work, consider buying me a coffee ☕*
 
 ---

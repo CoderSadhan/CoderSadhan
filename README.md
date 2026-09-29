@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Sadhan%20Das&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Sadhan%20Das&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Associate+Software+Developer+%40+EdgeWrapper+%F0%9F%8F%A2;MERN+Stack+%7C+Next.js+%7C+FastAPI+%7C+TypeScript+%E2%9A%A1;500%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Oracle+Cloud+Certified+AI+Professional+%E2%98%81%EF%B8%8F;Building+production-ready+applications+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Software+Developer+%7C+Full+Stack+%F0%9F%92%BB;MERN+Stack+%7C+Next.js+%7C+FastAPI+%7C+TypeScript+%E2%9A%A1;500%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Building+production-ready+applications+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,6 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="380" src="https://images.playground.com/4721561220eb4ad1b0bdce8ed478d5f6.jpeg" />
 
 ## 🧑‍💻 About Me
 
@@ -39,37 +38,11 @@ currently_learning: [Microservices, Docker, CI/CD Pipelines]
 open_for: [Collaboration, Open Source, Freelance]
 ```
 
-
 - ⚡ Experienced with **MERN Stack**, **Next.js**, **FastAPI**, & **TypeScript**
 - 🔧 Design & implement **RESTful APIs** with Swagger/OpenAPI documentation
 - 🧠 Solved **500+ DSA problems** on LeetCode & GeeksforGeeks
 - ☁️ **Oracle Cloud Infrastructure** Certified Generative AI Professional
 - 📧 Reach me at **sadhandas.dev@gmail.com**
-
-<br clear="both"/>
-
----
-
-<!-- Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="#">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codersadhan&repo=InterviewAce&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="#">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codersadhan&repo=Linkastra&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
-| Project | Tech Stack | Highlights |
-|:--------|:-----------|:-----------|
-| **🤖 InterviewAce** *(Jul 2026)* | React.js, Node.js, Express.js, MongoDB, Gemini AI | AI-powered placement prep platform with resume analysis, ATS scoring & personalized interview questions |
-| **🔗 Linkastra** *(May 2026)* | Next.js, React.js, Node.js, MongoDB, Redux Toolkit | Professional networking platform with 15+ RESTful API endpoints, authentication & monorepo architecture |
 
 ---
 
@@ -122,18 +95,18 @@ open_for: [Collaboration, Open Source, Freelance]
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codersadhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codersadhan&theme=github_dark" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codersadhan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersadhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codersadhan&theme=github_dark" alt="Top Languages by Repo" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codersadhan&theme=github_dark" alt="Top Languages by Commit" />
 
-</div>
+<br/>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codersadhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codersadhan&theme=github_dark" alt="Contribution Graph" />
+
 </div>
 ---
 

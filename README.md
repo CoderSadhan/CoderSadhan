@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Sadhan%20Das&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20%7C%20Open%20Source&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Sadhan%20Das&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java&descSize=18&descAlignY=55&descColor=8b949e" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications+%F0%9F%9A%80;MERN+Stack+%7C+Java+%7C+TypeScript+%E2%9A%A1;250%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%92%BB;Turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Associate+Software+Developer+%40+EdgeWrapper+%F0%9F%8F%A2;MERN+Stack+%7C+Next.js+%7C+FastAPI+%7C+TypeScript+%E2%9A%A1;500%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Oracle+Cloud+Certified+AI+Professional+%E2%98%81%EF%B8%8F;Building+production-ready+applications+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,21 +32,44 @@
 
 ```yaml
 name: Sadhan Das
-role: Full Stack Developer
-location: India 🇮🇳
-currently_learning: [TypeScript, Next.js, Docker]
+role: Software Developer
+location: Kolkata, India 🇮🇳
+education: B.E. in Information Technology (UIT Burdwan, 2025)
+currently_learning: [Microservices, Docker, CI/CD Pipelines]
 open_for: [Collaboration, Open Source, Freelance]
-fun_fact: "I debug with console.log and I'm proud of it 😄"
 ```
 
-- 🔥 Passionate about **MERN Stack** & **Java Development**
-- 🌱 Currently diving deep into **TypeScript** & **Next.js**
-- 🧠 Solved **250+ problems** on LeetCode & GeeksforGeeks
-- 🤝 Open to **Open Source contributions** & **collaborations**
+
+- ⚡ Experienced with **MERN Stack**, **Next.js**, **FastAPI**, & **TypeScript**
+- 🔧 Design & implement **RESTful APIs** with Swagger/OpenAPI documentation
+- 🧠 Solved **500+ DSA problems** on LeetCode & GeeksforGeeks
+- ☁️ **Oracle Cloud Infrastructure** Certified Generative AI Professional
 - 📧 Reach me at **sadhandas.dev@gmail.com**
-- ☕ *Love my work? Buy me a coffee!*
 
 <br clear="both"/>
+
+---
+
+<!-- Projects -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="#">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codersadhan&repo=InterviewAce&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="#">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codersadhan&repo=Linkastra&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<br/>
+
+| Project | Tech Stack | Highlights |
+|:--------|:-----------|:-----------|
+| **🤖 InterviewAce** *(Jul 2026)* | React.js, Node.js, Express.js, MongoDB, Gemini AI | AI-powered placement prep platform with resume analysis, ATS scoring & personalized interview questions |
+| **🔗 Linkastra** *(May 2026)* | Next.js, React.js, Node.js, MongoDB, Redux Toolkit | Professional networking platform with 15+ RESTful API endpoints, authentication & monorepo architecture |
 
 ---
 
@@ -55,33 +78,40 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 
 <div align="center">
 
+### 💬 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
 
@@ -105,23 +135,6 @@ fun_fact: "I debug with console.log and I'm proud of it 😄"
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codersadhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
-
-<!-- Achievements -->
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🎯 Achievement | 📌 Details |
-|:---|:---|
-| ⭐ **MERN Stack Projects** | Built ERP System, Food Delivery App, Portfolio & more |
-| 🧠 **250+ DSA Problems** | Solved on LeetCode & GeeksforGeeks using Java |
-| ☁️ **API & Cloud** | REST APIs, JWT Auth, Cloud Deployments |
-| 🔧 **Clean Architecture** | Passionate about scalable, user-friendly web experiences |
-
-</div>
-
 ---
 
 <!-- Connect -->
